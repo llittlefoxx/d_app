@@ -1,0 +1,17 @@
+.navigation{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    background-color: #660033;
+}
+.navigation li{
+    float: left;
+}
+.navigation li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
