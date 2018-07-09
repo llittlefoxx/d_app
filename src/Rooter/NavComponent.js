@@ -30,6 +30,7 @@ import './NavComponentStyle.css';
                         <li>
                             <Link to="/profile">{props.name} Profile</Link>
                         </li>
+                        
                         <li>
                             <Link to="/about" >About</Link>
                         </li>
